@@ -1,6 +1,6 @@
 # NeRFs on the Go: ARKit → Instant-NGP
 
-<img src="assets/app_layout.png" width="450"/> <img src="assets/fox.png" width="200"/>
+<img src="assets/app_layout.png" width="450"/> <img src="assets/fox.gif" width="200"/>
 
 A concise pipeline for training NeRFs on your own iPhone scenes.
 
