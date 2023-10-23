@@ -2,7 +2,9 @@
 
 <img src="assets/app_layout.png" width="450"/> <img src="assets/fox.gif" width="225"/>
 
-A concise pipeline utility for converting outputs from various ARKit-based apps into the canonical `transforms.json`-based form used to train NeRFs. We focus on Instant-NGP, and adapt the PyTorch implementation from [here](https://github.com/ashawkey/torch-ngp).
+A concise pipeline for training NeRFs on your own iPhone scenes.
+
+We provide conversions for various ARKit-based iPhone apps into the canonical `transforms.json`-based form used to train NeRFs. For training, we focus on Instant-NGP (we use the PyTorch implementation from [here](https://github.com/ashawkey/torch-ngp)) which is fast and lightweight.
 
 # Setup
 
