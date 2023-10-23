@@ -1,8 +1,10 @@
-# README
+# NeRFs on the Go: ARCam → Instant-NGP
+
+<img src="assets/app_layout.png" width="450"/> <img src="assets/fox.gif" width="225"/>
 
 A concise pipeline for using outputs from the ARCam capture app to train NeRFs using Instant-NGP.
 
-We adapt the PyTorch implementation of Instant-NGP [here](https://github.com/ashawkey/torch-ngp).
+We adapt the PyTorch implementation of Instant-NGP from [here](https://github.com/ashawkey/torch-ngp).
 
 # Setup
 Create a conda environment with Python 3.7.16, and install dependencies:
