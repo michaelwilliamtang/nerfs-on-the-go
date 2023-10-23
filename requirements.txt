@@ -11,9 +11,11 @@ matplotlib
 PyMCubes
 rich
 pysdf
-dearpygui
+dearpygui==1.9.0
 packaging
 scipy
 lpips
 imageio
 torchmetrics
+natsort
+sklearn-image
