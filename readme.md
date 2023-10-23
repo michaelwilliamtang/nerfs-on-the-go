@@ -2,6 +2,8 @@
 
 <img src="assets/app_layout.png" width="450"/> <img src="assets/fox.gif" width="225"/>
 
+https://github.com/michaelwilliamtang/nerfs-on-the-go/assets/7453451/5b985e01-85e8-46d4-8dfe-f8ae85c809de
+
 A concise pipeline for training NeRFs on your own iPhone scenes.
 
 We provide conversions for various ARKit-based iPhone apps into the canonical `transforms.json`-based form used to train NeRFs. For training, we focus on Instant-NGP (we use the PyTorch implementation from [here](https://github.com/ashawkey/torch-ngp)) which is fast and lightweight.
