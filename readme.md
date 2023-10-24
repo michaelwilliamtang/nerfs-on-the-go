@@ -23,7 +23,7 @@ Note that ARKit requires a lidar sensor, which is present on the Pro (and Pro Ma
 
 ## Using the Record3D app
 
-Record3D can be downloaded from the [https://record3d.app/](App Store) and works with the aforementioned iPhones.
+Record3D can be downloaded from the [App Store](https://record3d.app/) and works with the aforementioned iPhones.
 1. Use Record3D to capture a video of the scene - slowly move around the scene during the video.
 2. Find the video in the library, and swipe right on it and select export, specifying "Shareable/Internal format (.r3d)".
 2. Transfer the exported data to your computer.
