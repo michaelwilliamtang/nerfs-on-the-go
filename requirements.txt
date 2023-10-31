@@ -18,4 +18,9 @@ lpips
 imageio
 torchmetrics
 natsort
-sklearn-image
+scikit-image
+numpy
+pyquaternion
+tqdm
+Pillow
+
